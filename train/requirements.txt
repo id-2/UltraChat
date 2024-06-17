@@ -1,6 +1,6 @@
 bmtrain==0.2.1
-scikit_learn==1.0
+scikit_learn==1.5.0
 torch==1.13.1
 tqdm
-transformers==4.28.1
+transformers==4.38.0
 wandb
